@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **iamanasmasood@gmail.com**
 
-- ♥️ Interests **I kinda like games (CSGO is one of my fav)**
+- ♥️ Interests -> **I kinda like games (CSGO is one of my fav)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
