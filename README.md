@@ -15,13 +15,13 @@
 
 - 📫 How to reach me **iamanasmasood@gmail.com**
 
-- ⚡ Interests **I kinda like games (CSGO is one of my fav)**
+- ♥️ Interests **I kinda like games (CSGO is one of my fav)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_anasmasood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anasmasood" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anasmasood" height="30" width="40" /></a>
 <a href="https://instagram.com/anasmasoodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anasmasoodd" height="30" width="40" /></a>
-<a href="https://discord.gg/rxanas#6529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rxanas#6529" height="30" width="40" /></a>
+<a href="https://discord.gg/jwqbYk9q3E" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rxanas#6529" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
