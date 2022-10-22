@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=proanus&show_icons=true&locale=en" alt="proanus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=proanus&" alt="proanus" /></p>
+
+## My Contribution
+![snake gif](https://github.com/proanus/proanus/blob/output/github-contribution-grid-snake.gif)
