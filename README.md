@@ -14,7 +14,7 @@
 
 - ♥️ Interests -> **I kinda like games (CSGO is one of my fav)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anasmasood" height="30" width="40" /></a>
 <a href="https://instagram.com/anasmasoodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anasmasoodd" height="30" width="40" /></a>
