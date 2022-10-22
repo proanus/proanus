@@ -1,4 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
+
 <h1 align="center">Hi, I'm Anas Masood</h1>
 <h3 align="center">A developer with an entrepreneur mindset.</h3>
 <h4 align="center">Profile views</h4>
@@ -8,20 +9,16 @@
    <img src="https://profile-counter.glitch.me/proanus/count.svg" align="center"/> 
  </p></div>
  
- 
-- 🔭 I’m currently working on **Web Development**
+  ### 👩‍💻About Me:
+  <a href='https://github.com/samadpls/Programing-Gifs'>
+<img align='right' src='https://programming-gifs.herokuapp.com/' widht=200 height=180 alt='samadpls/Programming-Gifs'></a>
 
-- 💬 Ask me about **Python,HTML,CSS,WordPress**
-
-- 📫 How to reach me **iamanasmasood@gmail.com**
-
-- ♥️ Interests -> **I kinda like games (CSGO is one of my fav)**
-
+I'm Anas, currently doing Software engineering from @UIT. I know python & currently setting my hand on Unity. A part from that I enjoy gaming, cooking & music.
 <h3 align="left">Socials:</h3>
 <p align="left">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anasmasood" height="30" width="40" /></a>
-<a href="https://instagram.com/anasmasoodd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anasmasoodd" height="30" width="40" /></a>
-<a href="https://discord.gg/jwqbYk9q3E" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rxanas#6529" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anasmasoood" ><img align="center" alt="LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/anasmasoodd/" ><img align="center" alt="Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="iamanasmasood@gmail.com"><img align="center" alt="Gmail" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
